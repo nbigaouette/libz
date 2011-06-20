@@ -5,3 +5,4 @@
 example*
 minigzip*
 zlib.pc
+*.rej

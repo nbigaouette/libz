@@ -1,1 +1,7 @@
 *.o
+*.lo
+*.a
+*.so*
+example*
+minigzip*
+zlib.pc
